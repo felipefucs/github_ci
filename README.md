@@ -1,3 +1,3 @@
 # github_ci
 
-![example event parameter](https://github.com/github/docs/actions/workflows/go.yml/badge.svg?event=push)
+![fluxo de trabalho de exemplo](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
